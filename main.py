@@ -1,6 +1,17 @@
-def main():
-    print("Hello from dsc190-assignment5!")
+import os
 
+x = 1
+x = 2
 
-if __name__ == "__main__":
-    main()
+def foo():
+	y = 10
+	return y
+
+print( "hellow world" )
+
+def unused_function():
+	pass
+
+unused_variable = 123
+
+if(True):print("bad formatting")
